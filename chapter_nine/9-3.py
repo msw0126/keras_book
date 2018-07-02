@@ -1,6 +1,8 @@
 # -*- coding:utf-8 -*-
 """
 实现DCGAN生成对抗网络还原和模仿MNIST样本
+参考文档：https://blog.csdn.net/gjq246/article/details/75118751
+         https://blog.csdn.net/u013948010/article/details/78580743
 """
 
 import numpy as np
